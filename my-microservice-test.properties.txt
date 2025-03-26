@@ -1,1 +1,1 @@
-message=Welcome to the Testing profile!
+greeting.message=Hello from Dev!
